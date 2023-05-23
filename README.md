@@ -1,6 +1,6 @@
 # RC2014-TMS9918A
 
-I love the RC2014 modular form factor and the fact that it's an 8-bit computer built from new parts. Personally I have no nostalgia for terminals and serial communication. 
+I love the RC2014 modular form factor and the fact that it's an 8-bit computer built from new parts. Personally, though, I have no nostalgia for terminals and serial communication. 
 
 RC2014 + TMS
 
