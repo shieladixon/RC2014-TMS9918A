@@ -8,3 +8,5 @@ The addition of a video card takes the RC2014 to another level. The TMS9918A is 
 
 
 There is a small library of software for RC2014+TMS video card and I am actively adding to it. Porting programs and games from other systems with similar screen resolutions or the same video chip is easy and I found porting 3D Monster Maze lots of fun.
+
+The built examples here in the cpm and 32k folders are mostly from J B Langston's repo, https://github.com/jblang/TMS9918A , just built for your convenience to run on a cp/m or classic 32k RC2014 (ie without the z180, z80ctl, or $bx port check)
