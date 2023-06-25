@@ -15,5 +15,6 @@ J B Langston's repo also contains the files for making the video card. If you pr
 ## Viewing the .sc2 files
 
 For CPM, sc2view.com will take the .sc2 filename as an argument - eg sc2view arnie.sc2
+
 For 32k, the programs are self-contained with the viewer and image data in one file, so loading and running cyber.ihx will display the image.
 
