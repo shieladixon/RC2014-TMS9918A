@@ -18,3 +18,4 @@ For CPM, sc2view.com will take the .sc2 filename as an argument - eg sc2view arn
 
 For 32k, the programs are self-contained with the viewer and image data in one file, so loading and running cyber.ihx will display the image.
 
+The .sc2 images generally come from https://tomseditor.com/gallery/browse where there is a very large gallery of .sc2 and .sc3 images
