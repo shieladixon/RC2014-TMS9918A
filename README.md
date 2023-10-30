@@ -12,6 +12,27 @@ The built examples here in the cpm and 32k folders are mostly from J B Langston'
 
 J B Langston's repo also contains the files for making the video card. If you prefer, I'm supplying the module built and tested (with Mr Langston's permission) complete with video chip here: https://www.tindie.com/products/30454/
 
+## A list of some of the binaries
+
+3DMM.COM / 3DMM.IHX - a port of the classic game. "He is hunting you..."
+
+MAZOGS.COM / MAZOGS.IHX - another port of a classic game. 
+
+FERN.COM - Barnesley fern, plotted in bitmap mode
+
+GTC.COM / GTC32.IHX - my own game, Grand Theft Cygnus. Steal as many of the Queen's swans as you can without her catching you
+
+TMSLIFE.COM / TMSLIFE.IHX - a fast-moving version of Conway's Life. 
+
+ASCII.COM / ASCII.IHX - simple demonstration of the two-colour 40-column text mode. The program just loads and displays a character set.
+
+MANDEL.COM / MANDEL.IHX - mandelbrot using the TMS colour bitmap mode 
+
+NYAN.COM / NYAN.IHX - Brilliant demo featuring AY sound. NYANGB.COM and NYANCHEESE.COM are variations, see J B Langston's repository for the source and more possible variations.
+
+PLASMA.COM / PLASMA.IHX - another brilliant demo featuring a fast-moving plasma effect.
+
+
 ## Viewing the .sc2 and .sc3 image files
 
 For CPM, sc2view.com will take the .sc2 filename as an argument - eg sc2view arnie.sc2.  Ditto for sc3view.com
