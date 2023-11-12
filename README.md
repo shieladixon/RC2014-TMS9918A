@@ -32,6 +32,8 @@ NYAN.COM / NYAN.IHX - Brilliant demo featuring AY sound. NYANGB.COM and NYANCHEE
 
 PLASMA.COM / PLASMA.IHX - another brilliant demo featuring a fast-moving plasma effect.
 
+SIMON.COM / SIMON.IHX - go on, guess! A very playable game of Simon by yours truly, with graphic display and optionally (recommended) AY sound. Pick 4 keys from each quarter of the keyboard - I like Q O Z M. 
+
 
 ## Viewing the .sc2 and .sc3 image files
 
