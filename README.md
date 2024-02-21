@@ -36,6 +36,7 @@ PLASMA.COM / PLASMA.IHX - another brilliant demo featuring a fast-moving plasma 
 
 SIMON.COM / SIMON.IHX - go on, guess! A very playable game of Simon by yours truly, with graphic display and optionally (recommended) AY sound. Pick 4 keys from each quarter of the keyboard - I like Q O Z M. 
 
+Sprite Designer - The TMS can display 32 sprites on-screen. They're single-colour but can be overlaid for multicolour sprites. This folder contains binaries for a work-in-progress sprite designer which will help anyone wanting to make multicolour sprites for a game, demo or just have fun drawing. 
 
 ## Viewing the .sc2 and .sc3 image files
 
